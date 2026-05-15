@@ -29,7 +29,7 @@ sification models for resource-constrained environments.
 
 ## Architecture :
 
-![Model Architecture] (https://github.com/S-nakib30/Satellite-Image-Classification-with-XAI-/blob/b93f278c08e11450ddd39350fbc9f17d18281433/Image/Architecture.png)
+![Model Architecture] (Image/Architecture.png)
 
 **Figure : Architecture
 
