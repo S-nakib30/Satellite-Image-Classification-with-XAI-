@@ -16,7 +16,12 @@ show that these fractal-inspired designs can be an alter-
 native to traditional CNN or transformer-based models
 for developing high-performance, efficient LULC clas-
 sification models for resource-constrained environments.
-The code for the paper is available at GitHub.
 
-#Result :
 
+ 
+
+## Result
+
+![Prediction Result](https://raw.githubusercontent.com/S-nakib30/Satellite-Image-Classification-with-XAI-/main/Image/Result.png)
+
+**Figure 1: Result comparison of the proposed model**
