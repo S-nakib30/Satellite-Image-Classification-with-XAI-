@@ -27,15 +27,16 @@ sification models for resource-constrained environments.
 **Figure : Result comparison of the proposed model**
 
 
-## Architecture :
+## Architecture
 
-![Model Architecture] (Image/Architecture.png)
+![Model Architecture](https://raw.githubusercontent.com/S-nakib30/Satellite-Image-Classification-with-XAI-/b93f278c08e11450ddd39350fbc9f17d18281433/Image/Architecture.png)
 
-**Figure : Architecture
+**Figure 1: Model Architecture**
 
-## XAI HeatMAP :
+## XAI HeatMAP
 
-![Heatmap] (https://github.com/S-nakib30/Satellite-Image-Classification-with-XAI-/blob/b93f278c08e11450ddd39350fbc9f17d18281433/Image/GradCAM.png)
-![heatmap] (https://github.com/S-nakib30/Satellite-Image-Classification-with-XAI-/blob/b93f278c08e11450ddd39350fbc9f17d18281433/Image/Grad%20CAM%202.png)
+![Heatmap 1](https://raw.githubusercontent.com/S-nakib30/Satellite-Image-Classification-with-XAI-/b93f278c08e11450ddd39350fbc9f17d18281433/Image/GradCAM.png)
 
-**Figure : Heatmap by GradCAM XAI 
+![Heatmap 2](https://raw.githubusercontent.com/S-nakib30/Satellite-Image-Classification-with-XAI-/b93f278c08e11450ddd39350fbc9f17d18281433/Image/Grad%20CAM%202.png)
+
+**Figure 2: Heatmap visualization using Grad-CAM (XAI technique)**
